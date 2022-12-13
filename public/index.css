@@ -1,4 +1,4 @@
-#img {
+/* #img {
   display: block;
   margin: auto;
   height: 128px;
@@ -11,4 +11,29 @@
   margin: 2rem auto;
   width: 540px;
   height: 540px;
+} */
+
+#newItem {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  margin-bottom: 50px;
 }
+
+#submitNewItem {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  /* margin-bottom: 50px; */
+}
+
+#pageTitle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  /* margin-bottom: 50px; */
+}
+
